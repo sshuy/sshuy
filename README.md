@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sshuy
-- 👀 I’m interested in reverse engineering within games and anti-cheating methodologies 
-- 🌱 I’m currently learning C++ and Cheat Engine
+- 👀 I’m interested in reverse engineering within games and anti-cheating methodologies
+- 🌘 I'm also learning LUA for my position as an automation engineer, that is my current focus.
+- 🌱 I’m currently learning C++ and Cheat Engine.
 - 💞️ I’m looking to collaborate on any software or project that related to the above.
 - 📫 How to reach me work.sshuy@gmail.com
 
